@@ -1,6 +1,6 @@
 <div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
     <div style="display: inline-block;">
-        <img width="450" height="224" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harm-smits&theme=vue&show_icons=true&count_private=true&hide=issues" class="responsive" />
+        <img width="450" height="224" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harm-smits&theme=vue&show_icons=true&count_private=true" class="responsive" />
     </div>
     <br/>
     <div style="display: inline-block;">
