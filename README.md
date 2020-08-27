@@ -1,12 +1,12 @@
-<div style="-webkit-column-count: 2; -moz-column-count: 2; column-count: 2; -webkit-column-rule: 1px dotted #e0e0e0; -moz-column-rule: 1px dotted #e0e0e0; column-rule: 1px dotted #e0e0e0;">
-    <div style="display: inline-block;">
-        <img width="450" height="150" img align="left" alt="Harm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harm-smits&theme=vue&show_icons=true&count_private=true&hide_border=true&hide=issues" class="responsive" />
-    </div>
-    <div style="display: inline-block;">
-        <img width="350" height="150" img align="center" alt="Harm's TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harm-smits&theme=vue&hide_border=true&layout=compact&count_private=true" class="responsive"/>
-    </div>
-</div>
-<br/>
+### Hi there 👋
+
+#### I'm a self-employed Full-Stack Developer & Codam Student.
+
+- ⚙️ I use daily: `.php`, `.js`, `.c`, `.cpp`, `.rs`, `.py`, `.sh`
+- 🌍 I'm mostly active within the **CS-Cart Community**
+- 🌱 Learning all about **Kernel Development**
+- 💬 Ping me about **Boost**, **Framework design**, **OOP**, **AWS**, **DevOps**, **Ansible** & **CS-Cart**
+- ⚡️ Hobbies: Gaming, programming & walks.
 
 
 ### Contact me:
